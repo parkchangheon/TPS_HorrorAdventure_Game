@@ -74,7 +74,16 @@ Plugins/*/Intermediate/*
 *.uproject
 *.umap
 *.ini
+*.svn-base
 #.uproject
+*.r503
+*.r513
+*.r251
+*.r411
+*.zip
+*.FBX
+*.db
+
 
 # Cache files for the editor to use
 DerivedDataCache/*
